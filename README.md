@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello i'm Sergio Sánchez M.<br>👀 I'm interesting in Web Development and Gaming.<br>🌱 I’m currently learning Web Application Development.<br>💞️ I’m looking to collaborate on Front End Developer, Back End Developer or Full Stack Developer.<br>📫 How to reach me: ssanchez15394@gmail.com<br><br><br>
+•👋 Hello i'm Sergio Sánchez M.<br>•👀 I'm interesting in Web Development and Gaming.<br>•🌱 I’m currently learning Web Application Development.<br>•💞️ I’m looking to collaborate on Front End Developer, Back End Developer or Full Stack Developer.<br>•📫 How to reach me: ssanchez15394@gmail.com<br><br><br>
 
 
 ## 🌐 Socials:
